@@ -1,6 +1,3 @@
-!pip install torchsummary
-!pip install richprint
-
 from richprint import RichPrint
 rprint = RichPrint()
 
