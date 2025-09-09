@@ -19,6 +19,11 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
+## Training Notes
+
+- This model was trained on **20,000 English–Hindi sentence pairs**.
+- For optimal performance, training on a larger dataset is recommended.
+
 ## References
 
 - Vaswani et al., [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762), 2017  
